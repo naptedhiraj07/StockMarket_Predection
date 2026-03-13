@@ -2,11 +2,11 @@
 "This project uses Linear Regression to predict the next day's closing price of a stock based on its historical performance fetched via the Yahoo Finance API."
 
 ## Tools Used:
--Yfinance
--Pandas
--Numpy
--Scikit-learn
--Matplotlib
+ - Yfinance
+ - Pandas
+ - Numpy
+ - Scikit-learn
+ - Matplotlib
 
 ## 📖 Project Overview:
 This project focuses on leveraging historical data to predict the future price movements of Apple Inc. (AAPL).
